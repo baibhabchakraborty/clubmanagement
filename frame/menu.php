@@ -56,7 +56,7 @@
 <div id="menu">
 	<div class="menu-container">
 	<div id="logo">
-				<a href="../homepage/homepage.php"><img src="../img/club-logo.png"></a>
+				<a href="../homepage/homepage.php"><img src="../img/abcd.jpeg"></a>
 	</div>
 		<ul class="main-nav">
 			<li><a class="cmncls link1" href="../homepage/homepage.php"><i class="fa fa-home" aria-hidden="true">&nbsp;&nbsp;Home</i></a></li>

@@ -1,5 +1,5 @@
 <head>
-	<title>AIUB Club</title>
+	<title>SVCE Club</title>
 	<meta charset="utf-8">
 	<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Ubuntu">
 	<link rel="stylesheet" type="text/css" href="../css/homepage.css">
